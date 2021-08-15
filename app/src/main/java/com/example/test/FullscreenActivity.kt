@@ -14,7 +14,7 @@ import com.example.test.databinding.ActivityFullscreenBinding
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
- * status bar and navigation/system bar) with user interaction.
+ * status bar and navigation/system bar) with user interaction.dsad
  */
 class FullscreenActivity : AppCompatActivity() {
 
